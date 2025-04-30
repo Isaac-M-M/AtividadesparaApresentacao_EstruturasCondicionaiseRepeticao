@@ -42,7 +42,7 @@ https://www.programiz.com/swift-programming/online-compiler
 
 ## 🧱 Estrutura dos Arquivos
 
-📁 AventuraGalactica/ ├── Apresentação: Aventura Galáctica - Estruturas de Repetição e Condicionais em Swift ├── decifrador.swift # Missão 1 ├── navegacao.swift # Missão 2 ├── batalha.swift # Missão 3 └── README.md # Este arquivo
+📁 AventuraGalactica/ ├── Entendendo Estruturas de Controle em Swift ├── decifrador.swift # Missão 1 ├── navegacao.swift # Missão 2 ├── batalha.swift # Missão 3 └── README.md # Este arquivo
 
 ---
 
