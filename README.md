@@ -1,66 +1,53 @@
 # 🚀 Aventura Galáctica
 
-Bem-vindo(a) ao projeto **Aventura Galáctica**!  
-Este projeto contém atividades práticas focadas em estruturas de repetição (`for` e `while`), desenvolvidas em **Swift** para o console.
+Três jogos educativos desenvolvidos em Swift para demonstrar estruturas de **repetição** e **condicionais**, com um toque divertido de ficção científica!
 
-Projeto feito para a **Apresentação de Estruturas Condicionais e Repetição** – 28/04/2025.
-
----
-
-## 🌌 Descrição das Missões
+## 🎮 Missões Disponíveis
 
 ### 1. Decifrador de Mensagens Estelares
-- **Objetivo**: Ler mensagens codificadas de planetas distantes e decifrá-las.
-- **Técnica usada**: Loops `for` aninhados e manipulação de strings.
+> Intercepte mensagens codificadas de planetas alienígenas e descubra seu conteúdo.
 
 ### 2. Navegação em Campo de Asteroides
-- **Objetivo**: Simular uma nave espacial navegando entre asteroides perigosos.
-- **Técnica usada**: Loop `while` com geração de números aleatórios.
+> Navegue por um campo perigoso e fuja de colisões baseando-se em distâncias aleatórias.
 
 ### 3. Batalha Espacial Intergaláctica
-- **Objetivo**: Administrar o uso de mísseis para destruir naves inimigas.
-- **Técnica usada**: Loops `while` com tratamento de erro para entrada de dados.
+> Destrua naves inimigas usando mísseis limitados com ataques simulados.
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🧠 Conceitos Usados
 
-AventuraGalactica/ ├── main.swift // Menu principal para escolher a missão ├── Decifrador.swift // Código do Decifrador de Mensagens ├── NavegacaoAsteroides.swift // Código da Navegação de Asteroides ├── BatalhaEspacial.swift // Código da Batalha Espacial └── README.md // Este arquivo de descrição
-
-yaml
-Copiar
-Editar
+- `if / else` para decisões
+- `for` e `while` para repetições
+- Manipulação de `String`
+- Arrays e controle de fluxo
+- Simulações sem entrada manual (`readLine`)
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## 🧪 Como rodar o projeto
 
-1. Clone o repositório:
+Você pode executar qualquer um dos 3 arquivos individualmente no compilador online:
 
-```bash
-git clone https://github.com/Isaac-M-M/AtividadesparaApresentacao_EstruturasCondicionaiseRepeticao.git
-Acesse a pasta:
+🔗 **Programiz Swift Online Compiler**  
+https://www.programiz.com/swift-programming/online-compiler
 
-bash
-Copiar
-Editar
-cd AtividadesparaApresentacao_EstruturasCondicionaiseRepeticao
-Compile e execute:
+1. Copie o conteúdo de um dos arquivos (`decifrador.swift`, `navegacao.swift`, `batalha.swift`)
+2. Cole no editor do Programiz
+3. Clique em **Run** e observe o resultado no console
 
-bash
-Copiar
-Editar
-swiftc main.swift Decifrador.swift NavegacaoAsteroides.swift BatalhaEspacial.swift -o AventuraGalactica
-./AventuraGalactica
-✅ Ou, se preferir, abra no Xcode como um projeto de Command Line Tool.
+> ⚠️ Importante: Programiz não aceita `readLine()`, então os jogos usam **dados simulados** para funcionar automaticamente.
 
-🛠️ Tecnologias Utilizadas
-Swift 5.9
+---
 
-Terminal/Console
+## 🧱 Estrutura dos Arquivos
 
-Git e GitHub
+📁 AventuraGalactica/ ├── Apresentação: Aventura Galáctica - Estruturas de Repetição e Condicionais em Swift ├── decifrador.swift # Missão 1 ├── navegacao.swift # Missão 2 ├── batalha.swift # Missão 3 └── README.md # Este arquivo
 
-✨ Créditos
-Projeto desenvolvido por Isaac M. M.
-Apresentação prática para estudos de estruturas de repetição em Swift.
+---
+
+## 👨‍🚀 Autor
+
+Desenvolvido por Isaac Mesquita Moreira como atividade prática para estudo de estruturas condicionais e de repetição na linguagem Swift.
+
+---
