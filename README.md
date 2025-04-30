@@ -54,6 +54,6 @@ Desenvolvido por Isaac Mesquita Moreira como atividade prática para estudo de e
 
 ## Referência
 
-Roberto Mascarenha - https://www.linkedin.com/in/robertomascarenhas-dev/
+Roberto Mascarenhas - https://www.linkedin.com/in/robertomascarenhas-dev/
 
 ---
