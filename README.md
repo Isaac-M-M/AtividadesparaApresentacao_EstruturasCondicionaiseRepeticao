@@ -48,7 +48,10 @@ https://www.programiz.com/swift-programming/online-compiler
 
 ## 👨‍🚀 Autor
 
-Desenvolvido por Isaac Mesquita Moreira como atividade prática para estudo de estruturas condicionais e de repetição na linguagem Swift.
+Desenvolvido por: 
+Isaac Mesquita Moreira 38211521. 
+
+Como atividade prática para estudo de estruturas condicionais e de repetição, na linguagem Swift.
 
 ---
 
